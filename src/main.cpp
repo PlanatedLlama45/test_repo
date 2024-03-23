@@ -8,7 +8,7 @@ int main() {
     std::cin >> name;
     std::cout << "Calculating your sussyness...\n";
     Sleep(3000);
-    std::cout << "Yro'uertgk " << (rand() % 100) << "%% sus :flushed: :skull:" << std::endl;
+    std::cout << "Yro'uertgk " << (rand() % 100) << "% sus :flushed: :skull:" << std::endl;
 
     return 0;
 }
