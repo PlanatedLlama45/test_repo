@@ -1,0 +1,3 @@
+"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\sus_calculator.dir/objects.a
+C:\mingw64\bin\ar.exe qc CMakeFiles\sus_calculator.dir/objects.a @CMakeFiles\sus_calculator.dir\objects1.rsp
+C:\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\sus_calculator.dir/objects.a -Wl,--no-whole-archive -o sus_calculator.exe -Wl,--out-implib,libsus_calculator.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\sus_calculator.dir\linkLibs.rsp
