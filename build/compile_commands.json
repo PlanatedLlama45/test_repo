@@ -1,8 +1,0 @@
-[
-{
-  "directory": "C:/Users/super/c/c++/.Inginirium/test_repo/build",
-  "command": "C:\\mingw64\\bin\\g++.exe   -g -o CMakeFiles\\sus_calculator.dir\\src\\main.cpp.obj -c C:\\Users\\super\\c\\c++\\.Inginirium\\test_repo\\src\\main.cpp",
-  "file": "C:/Users/super/c/c++/.Inginirium/test_repo/src/main.cpp",
-  "output": "CMakeFiles/sus_calculator.dir/src/main.cpp.obj"
-}
-]

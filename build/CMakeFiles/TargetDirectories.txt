@@ -1,3 +1,0 @@
-C:/Users/super/c/c++/.Inginirium/test_repo/build/CMakeFiles/sus_calculator.dir
-C:/Users/super/c/c++/.Inginirium/test_repo/build/CMakeFiles/edit_cache.dir
-C:/Users/super/c/c++/.Inginirium/test_repo/build/CMakeFiles/rebuild_cache.dir
